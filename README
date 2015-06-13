@@ -1,0 +1,11 @@
+################################################################################
+To setup path for libs execute:
+> source setupLibs.sh
+################################################################################
+all used libs should be added
+manually to LIBS in Makefile
+################################################################################
+Clone these two libs (execute in libs directory):
+  git clone https://github.com/oviazlo/MyServiceFunctions.git
+  git clone https://github.com/oviazlo/BoostServiceFunctions.git
+################################################################################
